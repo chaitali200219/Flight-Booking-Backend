@@ -1,0 +1,98 @@
+[
+  {
+    "name": "John Doe",
+    "contactNumber": "1234567890",
+    "aadharCardNumber": "1234-5678-9101",
+    "numberOfPeople": 2
+  },
+  {
+    "name": "chaitali sule",
+    "contactNumber": "123456789",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 4
+  },
+  {
+    "name": "seeta iyer",
+    "contactNumber": "346787654",
+    "aadharCardNumber": "13252627827515",
+    "numberOfPeople": 8
+  },
+  {
+    "name": "rohan sharma",
+    "contactNumber": "2526881357",
+    "aadharCardNumber": "2526781913783939",
+    "numberOfPeople": 3
+  },
+  {
+    "name": "teena das",
+    "contactNumber": "145789662",
+    "aadharCardNumber": "226272899163563",
+    "numberOfPeople": 3
+  },
+  {
+    "name": "sham rao",
+    "contactNumber": "1234876543",
+    "aadharCardNumber": "12345678123456",
+    "numberOfPeople": 2
+  },
+  {
+    "name": "seema haider",
+    "contactNumber": "1234567898",
+    "aadharCardNumber": "1234567890123",
+    "numberOfPeople": 5
+  },
+  {
+    "name": "chaitali",
+    "contactNumber": "12591618191",
+    "aadharCardNumber": "111111111111111456",
+    "numberOfPeople": 4
+  },
+  {
+    "name": "Chaitali Sule",
+    "contactNumber": "2526881357",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 1
+  },
+  {
+    "name": "one",
+    "contactNumber": "1234876543",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 2
+  },
+  {
+    "name": "chaitali",
+    "contactNumber": "1234876543",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 12
+  },
+  {
+    "name": "chaitali",
+    "contactNumber": "1234876543",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 2
+  },
+  {
+    "name": "chaitali",
+    "contactNumber": "1234876543",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 2
+  },
+  {
+    "name": "chaitali",
+    "contactNumber": "1234876543",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 3
+  },
+  {
+    "name": "chaitali",
+    "contactNumber": "1234876543",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 4
+  },
+  {
+    "name": "pooja sharma",
+    "contactNumber": "123456789",
+    "aadharCardNumber": "1234124512345",
+    "numberOfPeople": 4
+  }
+]

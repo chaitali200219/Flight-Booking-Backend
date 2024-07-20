@@ -1,0 +1,118 @@
+{
+    "message": "",
+    "result": true,
+    "data": [
+      {
+        "airportCode": "ABD",
+        "airportId": 38,
+        "airportName": "Abu Dhabi Airport",
+        "cityId": 212,
+        "cityName": "dubai"
+      },
+      {
+        "airportCode": "CKE",
+        "airportId": 37,
+        "airportName": "Chennai Airport",
+        "cityId": 115,
+        "cityName": "Chennai"
+      },
+      {
+        "airportCode": "nn",
+        "airportId": 36,
+        "airportName": "lp",
+        "cityId": 108,
+        "cityName": "Hyderabad"
+      },
+      {
+        "airportCode": "dd",
+        "airportId": 35,
+        "airportName": "ss",
+        "cityId": 102,
+        "cityName": "New York"
+      },
+      {
+        "airportCode": "ll",
+        "airportId": 34,
+        "airportName": "bb",
+        "cityId": 102,
+        "cityName": "New York"
+      },
+      {
+        "airportCode": "qww",
+        "airportId": 33,
+        "airportName": "xxx",
+        "cityId": 106,
+        "cityName": "Pune"
+      },
+      {
+        "airportCode": "qq",
+        "airportId": 32,
+        "airportName": "aa",
+        "cityId": 101,
+        "cityName": "California"
+      },
+      {
+        "airportCode": "IGA",
+        "airportId": 18,
+        "airportName": "Indra Gandhi Airport",
+        "cityId": 116,
+        "cityName": "Bangalore"
+      },
+      {
+        "airportCode": "DELHI",
+        "airportId": 17,
+        "airportName": "Delhi Airport",
+        "cityId": 103,
+        "cityName": "Kannur"
+      },
+      {
+        "airportCode": "NoN",
+        "airportId": 16,
+        "airportName": "Vizag International Airport",
+        "cityId": 140,
+        "cityName": "Tadepalligudem"
+      },
+      {
+        "airportCode": "CLC",
+        "airportId": 12,
+        "airportName": "kempagowda Airport",
+        "cityId": 137,
+        "cityName": "Bangalore"
+      },
+      {
+        "airportCode": "NOI",
+        "airportId": 9,
+        "airportName": "Noida Airport",
+        "cityId": 104,
+        "cityName": "Noida"
+      },
+      {
+        "airportCode": "Thane",
+        "airportId": 5,
+        "airportName": "Thane Airport",
+        "cityId": 105,
+        "cityName": "Mumbai"
+      },
+      {
+        "airportCode": "MUM",
+        "airportId": 4,
+        "airportName": "Chhatrapati Shivaji Maharaj International Airport",
+        "cityId": 105,
+        "cityName": "Mumbai"
+      },
+      {
+        "airportCode": "HYD",
+        "airportId": 3,
+        "airportName": "Rajiv Gandhi International Airport",
+        "cityId": 108,
+        "cityName": "Hyderabad"
+      },
+      {
+        "airportCode": "Nag",
+        "airportId": 2,
+        "airportName": "Dr. Babasaheb Ambedkar International Airport",
+        "cityId": 114,
+        "cityName": "Nagpur"
+      }
+    ]
+  }

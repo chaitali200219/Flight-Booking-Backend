@@ -1,0 +1,34 @@
+[
+  {
+    "organizationName": "Tech Solutions Inc.",
+    "organizationId": "ORG001",
+    "vendorName": "Alice Johnson",
+    "email": "alice.johnson@techsolutions.com",
+    "contactNumber": "123-456-7890",
+    "password": "$2a$10$8El73HoGhYhVn9gomEP07.YhT7NdIvl3nrQPROhS9gM4SCuv63z9C"
+  },
+  {
+    "organizationName": "Vistara ",
+    "organizationId": "T12",
+    "vendorName": "Sunil sharma",
+    "email": "Sunil@gmail.com",
+    "contactNumber": "123789564",
+    "password": "$2a$10$CSagtQwMCfjA9ASvLJJLe.nuQmS6EzAeiKdQ30n0oIt1/l6q4ikoG"
+  },
+  {
+    "organizationName": "Indigo",
+    "organizationId": "Ql-12",
+    "vendorName": "Seemta dubey",
+    "email": "Seemta@gmail.com",
+    "contactNumber": "5687892345",
+    "password": "$2a$10$iJsW5z2rURUys2/SL/EStutFVbrM.8LFZS76m.YyOqve3VvRBY8IW"
+  },
+  {
+    "organizationName": "Air India",
+    "organizationId": "FG-9",
+    "vendorName": "Rosa",
+    "email": "Rosa@gmail.com",
+    "contactNumber": "5643278695",
+    "password": "$2a$10$/re9UXTjHAclfKMwodJR7.MQlu4k.hgoXSe7dW93GCwjdkg8dU0wS"
+  }
+]

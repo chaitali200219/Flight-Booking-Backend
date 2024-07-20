@@ -1,0 +1,105 @@
+{
+  "data": [
+    {},
+    {
+      "username": "exampleUser",
+      "email": "user@example.com",
+      "password": "$2a$10$HDkzoxmEPcLStakbHjMO6e1VPcXDoot9x7Nsbsvv2sHTSP2dUPNT2"
+    },
+    {
+      "username": "seema desai",
+      "email": "seema@gmail.com",
+      "password": "$2a$10$TicxMHgrFonSOhCSmGP7LeGSkbXoT7ZX9tWw..Xe.iYIojTVdt/IS"
+    },
+    {
+      "username": "chaitali sule",
+      "email": "chaitali@gmail.com",
+      "password": "$2a$10$lFCE2iP1OKOyxVD0ww3xluwc7UnqfHc0WsUrnzr8Y3fO0awq1706."
+    },
+    {
+      "username": "rohan",
+      "email": "rohan@gmail.com",
+      "password": "$2a$10$3nJBKTipXuEJ0XAFZdC6OuSEWmnmzgb8X/h4BCtIwyUBr.i/omqWa"
+    },
+    {
+      "username": "teena",
+      "email": "teena@gmail.com",
+      "password": "$2a$10$EfS/ccyUQP4eCXO9p73eFeV7tllKluIRyCcGnTvAuKPZVYfFm6F12"
+    },
+    {
+      "username": "chaitali",
+      "email": "Chaitalisule2002@gmail.com",
+      "password": "$2a$10$xAvybukZESaY0quR2bTlhOiDAj3EdUE2G7POWKoLxdDwHKRswus2m"
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$78u95XSeLPTlkJY4aDvvt.a19Itcxo4JyDBtRTf1WD/Zj3VE3WcUa"
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$zjwfsg69L3R9.vsC2w6tZOrYkJsvrY9wvHMv7yPu7FHZscsUqonmq"
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$WCyAQTstWDQvI0nLSn3ZJuhd7tU/TPxmJCZEJrtvibaa3F9IIAsyW"
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$qkl.OLnplamoAq6fUhbGZO.sEsKz6lNSwfMnkV.7I2nEsmCmwcA1S"
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$6KGsehBX/t.YwF7LL4D4PeJJsQmJi6voWYU3UmCUlUiuFI.yk05Qi"
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$pusslIWuIt3VHY3C9cD8o.GnZo5kwKKSgbHvywHoMPrBjkp33Dbmi"
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$KmGe9W9qyUNb/AXzHfhOcOpzAi3Saw7vZasLxV8c5ZTwj88IqrYku"
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$Z3/m/GSi.gijDf2L3W4nZuae1Gj5ujlLsW1T4z5npDlHtSqf9HTJ."
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$0DJKLVKpeikddxOzDXY5BOcPxXkmjZC4jDRJGkj9cD3PZUPzFfbI."
+    },
+    {
+      "username": "one",
+      "email": "one@gmail.com",
+      "password": "$2a$10$257DxGfSCbNMlFJokvaKQuDy3ua19UjB7GNXsU2FjGEAiDYz4djle"
+    },
+    {
+      "username": "pooja sharma",
+      "email": "pooja@gmail.com",
+      "password": "$2a$10$4hzD4sJv7qZeKCL06j6ukOZJS0fh8.2a1rUJCBT.N0nsZsHVkKhvO"
+    },
+    {
+      "username": "pooja sharma",
+      "email": "pooja@gmail.com",
+      "password": "$2a$10$EUypygys1fQZDr40M8e2JOd1z.g3JhgmRVTg85gSASbVnA1d9BZkq"
+    },
+    {
+      "username": "pooja sharma",
+      "email": "pooja@gmail.com",
+      "password": "$2a$10$zTenIqsp.eI9CiHMP0Xvxu3H1j5gyq4ryj2GXMYFRC/MljfTkdyiO"
+    },
+    {
+      "username": "pooja sharma",
+      "email": "pooja@gmail.com",
+      "password": "$2a$10$sm1l.fPXP2jcHQkpjfa0.OaBHQfpdUIkSSjWK9JzDH6/LUiS7VHDK"
+    }
+  ]
+}
